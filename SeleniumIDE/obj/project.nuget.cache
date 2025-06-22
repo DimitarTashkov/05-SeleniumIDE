@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "a4Mih1yH5Kc=",
+  "dgSpecHash": "Cdt3Mw8TFQc=",
   "success": true,
   "projectFilePath": "C:\\Users\\mitko\\source\\repos\\10-Exercise-CI-CD-Jenkins-Resources\\10-Exercise-CI-CD-Jenkins-Resources\\05-SeleniumIDE\\SeleniumIDE\\SeleniumIde.csproj",
   "expectedPackageFiles": [
@@ -17,7 +17,7 @@
     "C:\\Users\\mitko\\.nuget\\packages\\nunit.analyzers\\3.3.0\\nunit.analyzers.3.3.0.nupkg.sha512",
     "C:\\Users\\mitko\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512",
     "C:\\Users\\mitko\\.nuget\\packages\\selenium.webdriver\\4.21.0\\selenium.webdriver.4.21.0.nupkg.sha512",
-    "C:\\Users\\mitko\\.nuget\\packages\\selenium.webdriver.chromedriver\\127.0.6533.7200\\selenium.webdriver.chromedriver.127.0.6533.7200.nupkg.sha512",
+    "C:\\Users\\mitko\\.nuget\\packages\\selenium.webdriver.chromedriver\\137.0.7151.11900\\selenium.webdriver.chromedriver.137.0.7151.11900.nupkg.sha512",
     "C:\\Users\\mitko\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
   "logs": []
